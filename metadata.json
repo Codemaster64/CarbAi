@@ -1,0 +1,7 @@
+{
+  "name": "Carb Vision AI",
+  "description": "An intelligent food recognition app that analyzes images of food to identify items, estimate portion sizes, and calculate carbohydrate content using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
